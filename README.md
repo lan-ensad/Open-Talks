@@ -6,3 +6,4 @@
 ### #3 - 13-01-22 Raphaelle Kerbrat - Information, matière, énergie, matérialité du signal
 ### #4 - 17-02-22 Olivain Porry - Blockchain - https://lancloud.dedyn.io/s/E3PkGtepMKHigt4
 ### #5 - 14-04-22 Florine Fouquart - Live coding, shaders, demoscene - https://vimeo.com/702012384 - https://lancloud.dedyn.io/s/3fTmTYDCLdko8Xe
+### #6 - 20-10-22 Nadja Gaudillère-Jami - Architecture & Algorithmes
