@@ -1,3 +1,5 @@
+Compilation non exhaustive de jeux vidéo autobiographique
+
 - Mary Flanagan - [domestic] - 2003
 - Anna Anthropy - Dys4ia - 2012
 - Zoe Quinn - Depression Quest - 2013
