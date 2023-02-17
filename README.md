@@ -8,4 +8,5 @@
 ### #5 - 14-04-22 Florine Fouquart - Live coding, shaders, demoscene - https://vimeo.com/702012384 - https://lancloud.dedyn.io/s/3fTmTYDCLdko8Xe
 ### #6 - 20-10-22 Nadja Gaudillère-Jami - Architecture & Algorithmes
 ### #7 - 15-12-22 Antoine Richermoz - Image3D temps réel et voxel rendering
-### #8 - 05-01-23 Julie Blanc - Page.JS et édition multisupport 
+### #8 - 05-01-23 Julie Blanc - Page.JS et édition multisupport
+### #9 - 16-02-23 Angelo Careri - Jeux Vidéo autobiographique
